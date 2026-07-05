@@ -30,4 +30,4 @@ Sin requisitos previos: lo único que pedimos son ganas de aprender y de constru
 - Instagram — [@aperture.systems](https://www.instagram.com/aperture.systems/)
 - WhatsApp — [únete al grupo](https://chat.whatsapp.com/Bi83DY3f9tDCSMHDUqyHDM)
 - Correo — [aperture.systems.lab@gmail.com](mailto:aperture.systems.lab@gmail.com)
-- Websute - [conoce nuestra website](https://aperture-systems-lab.github.io/aperture/)
+- Website - [conoce nuestra website](https://aperture-systems-lab.github.io/aperture/)
