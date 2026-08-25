@@ -23,7 +23,7 @@ Sin requisitos previos: lo único que pedimos son ganas de aprender y de constru
 - **Data Science** — análisis, estadística y minería de datos.
 - **Machine Learning** — del notebook al ML en producción.
 - **IA & LLMs** — transformers, agentes de IA y RAG.
-- **High Performance Computing** — GPU programming (CUDA) y cómputo a escala.
+- **High Performance Computing** — GPU programming y cómputo a escala.
 
 ## Súmate
 
